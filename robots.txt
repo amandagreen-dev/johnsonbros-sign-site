@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://johnsonbros-sign.com/sitemap.xml
